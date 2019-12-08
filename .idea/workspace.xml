@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656bfcc1-66a3-408e-9894-ebeec5cf8d09" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/mico_app.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BaseTest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BaseTest/basetest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BaseTest/init_driver.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BaseTest/read_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/BaseTest/test_base.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Data/data.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Data/dev_login_data.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Data/t_data.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PageTest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/PageTest/dev_title.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Report/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Report/assets/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Report/report.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scritps/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scritps/test_001.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scritps/test_002.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scritps/test_dev_login.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scritps/test_yaml.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pytest.ini" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
