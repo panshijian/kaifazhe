@@ -1,0 +1,7 @@
+Dev_login:
+    - login_phone: {"phone":"17778159086","pwd":"123456","expect":"u553582"}
+#Dev_login:
+#  login_phone:
+#    phone: 17778159086
+#    pwd: 123456
+#    expect: u553582
